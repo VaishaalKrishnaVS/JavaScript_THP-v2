@@ -2,3 +2,7 @@
 # Local Memory
 # Execution Context
 # Call Stack
+# Closed Over 'Variable Environment'
+# Persistent Lexical Scope Referenced Data
+# BackPack
+# Closure
